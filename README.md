@@ -1,4 +1,32 @@
-This is an tutorial for Rebuild Tesla's Battery Range Calculator with React.
-This is inspired on Todd Motto's [Building Tesla's battery range calculator with Angular 2 reactive forms](https://toddmotto.com/building-tesla-range-calculator-angular-2-reactive-forms)
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/harunmohamed/cabeeapp">
+    <img src="https://i.imgur.com/uBhlnK9.png" alt="Logo" height="80">
+  </a>
 
-> For more details, check out my post [Building Tesla's battery range calculator with React Part 1](https://gyver98.github.io/blog/development/react/2017/02/13/react-tesla-battery-range-calculator-part1-english/)
+  <p align="center">
+    React Gunsel App to estimate range of B9 model. For learning purposes and not commissioned by Günsel.
+    <br />
+    <a href="https://harunmohamed.github.io/cabee/">View App</a>
+    ·
+    <a href="https://bambi.app/m/harun">Report Bug</a>
+    ·
+    <a href="https://bambi.app/m/harun">Request Feature</a>
+  </p>
+  <img src="https://i.imgur.com/3n0NBdB.png alt="GÜNSEL RANGE CALCULATOR">
+</p>
+
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Your Name - [@harunnmohamed](https://twitter.com/harunnmohamed) - harunmohamed901@gmail.com
+
+Project Link: [CABEE Website](https://harunmohamed.github.io/cabee/)
